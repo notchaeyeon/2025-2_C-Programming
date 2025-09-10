@@ -1,2 +1,2 @@
-# 2025 FALL SEMESTER 
+# 2025 FALL SEMESTER 🍁
 C Programming
